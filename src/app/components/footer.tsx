@@ -7,7 +7,7 @@ export default function Footer(){
             <div className='pb-3 lg:pb-0'>
                 <p>Just Like You, But on Steroids. <link rel="stylesheet" href=""/><Link href="/" className='text-[#3D9BE9]'>Marabi</Link></p>
             </div>
-            <p className="border-b border-[#3D9BE9] cursor-pointer "><Link href="../Contact">Let's Talk</Link></p>
+            <p className="border-b border-[#3D9BE9] cursor-pointer "><Link href="../Contact">Let us Talk</Link></p>
         </div>
     );
 }
