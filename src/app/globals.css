@@ -1,23 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+@import 'typeface-raleway'; /* Import the font */
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+  background: #C4A484;
+  font-family: 'Raleway';
+  margin-left: 20%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@media (max-width: 1024px){
+
+  body {
+    margin: 1%;
+  }
 }
 
 @layer utilities {

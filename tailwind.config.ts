@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import { fontFamily } from "tailwindcss/defaultTheme";
 
 const config: Config = {
   content: [
@@ -12,8 +13,12 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        raleway: ["var(--font-raleway)", ...fontFamily.sans],
+      },
     },
   },
   plugins: [],
 };
+
 export default config;
