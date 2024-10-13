@@ -6,7 +6,7 @@ export default function About() {
         <div className="font-raleway lg:w-[90%]">
             <h1 className="text-1xl md:text-2xl lg:text-3xl font-bold pb-5">404: Conventional About Page Not Found</h1>
             <p className="text-sm md:text-lg lg:text-lg pb-5 text-justify">Oops! You seem to have stumbled upon our about page. But fear not, brave explorer of the digital realm! You&apos;re in for a treat.</p>
-            <p className="text-sm md:text-lg lg:text-lg pb-5 text-justify">We&apos;re <strong>Marabi</strong>. We build websites, create mobile apps, and implement ERP systems. But that&apos;s not really what we do. What we actually do is <strong>solve problems.</strong></p>
+            <p className="text-sm md:text-lg lg:text-lg pb-5 text-justify">We&apos;re <strong>Zahav</strong>. We build websites, create mobile apps, and implement ERP systems. But that&apos;s not really what we do. What we actually do is <strong>solve problems.</strong></p>
 
             <div className="relative w-full h-64 my-5">
                 <Image 

@@ -32,7 +32,7 @@ export default function Section_Two(){
             </div>
             <div className="lg:w-[55%] lg:ml-5">
                 <p className="pb-10 text-black text-sm font-raleway md:text-xl lg:text-xl text-justify">
-                    At <strong>Marabi</strong>, we believe that every business deserves a digital presence that not only looks stunning but also functions flawlessly. 
+                    At <strong>Zahav</strong>, we believe that every business deserves a digital presence that not only looks stunning but also functions flawlessly. 
                     Our expert team of web developers is dedicated to bringing your vision to life, 
                     creating custom websites that are not only aesthetically pleasing but also user-friendly and optimized for performance.
                 </p>
