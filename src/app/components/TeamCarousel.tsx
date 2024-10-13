@@ -1,6 +1,6 @@
 'use client'
 import React, { useState, useEffect } from 'react';
-import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from 'react-icons/fa';
+import { FaLinkedin, FaGithub, FaInstagram } from 'react-icons/fa';
 import { FaXTwitter } from "react-icons/fa6";
 
 interface TeamMember {
