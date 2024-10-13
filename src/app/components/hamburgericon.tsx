@@ -30,6 +30,7 @@ export default function DropdownMenu(){
         <ul className="p-4 text-[#333333]">
           <li className="py-2"><Link href="../About">About</Link></li>
           <li className="py-2"><Link href="../Testimonials">Testimonials</Link></li>
+          <li className="py-2"><Link href="../Team">Team</Link></li>
           <li className="py-2"><Link href="../Contact">Contact</Link></li>
         </ul>
       </motion.div>
