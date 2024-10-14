@@ -59,11 +59,14 @@ const dummyTeamMembers: TeamMember[] = [
   {
     id: 4,
     name: "Charles Maina",
-    position: "Developer",
+    position: "Software Developer",
     description: "Code ninja and tech enthusiast, I bring ideas to life through innovative solutions and seamless integrations. Problem-solver by nature, I turn challenges into code with flair.",
     photo: "images/Charles.jpg",
     socialMedia: {
         github: "https://github.com/mikewhis",
+        linkedin: "https://www.linkedin.com/in/charles-maina-418533213/",
+        instagram: "https://www.instagram.com/charles_maina_waithira/",
+
     },
   },
   {
