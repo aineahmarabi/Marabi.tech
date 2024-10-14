@@ -115,7 +115,7 @@ export default function Testimonials() {
         <section>
           <h2 className="text-1xl md:text-2xl lg:text-3xl font-bold pb-5">The Results</h2>
           <p className="text-sm md:text-lg lg:text-lg pb-5 text-justify">
-            Our tailored solution for Kenya Safaris didn't just build a website—it crafted a digital gateway to adventure. This transformation exemplifies our ability to blend cutting-edge technology with captivating design, resulting in a significant boost to our client's online presence and bottom line.
+            Our tailored solution for Kenya Safaris didn&apos;t just build a website—it crafted a digital gateway to adventure. This transformation exemplifies our ability to blend cutting-edge technology with captivating design, resulting in a significant boost to our client's online presence and bottom line.
           </p>
           <p className="text-sm md:text-lg lg:text-lg pb-5">After the new website launch, Kenya Safaris experienced:</p>
           <ul className="text-sm md:text-lg lg:text-lg pb-5 list-disc list-inside">
@@ -196,7 +196,7 @@ export default function Testimonials() {
             <li>Enhance user experience for both pledge organizers and contributors</li>
           </ul>
           <p className="text-sm md:text-lg lg:text-lg pb-5 text-justify">
-            Pledgedrive represents our commitment to innovative, user-centric solutions that address real-world challenges. As we continue to refine and expand its capabilities, we're excited about the potential it holds to transform pledge management across various sectors.
+            Pledgedrive represents our commitment to innovative, user-centric solutions that address real-world challenges. As we continue to refine and expand its capabilities, we&apos;re excited about the potential it holds to transform pledge management across various sectors.
           </p>
         </section>
       </section>
